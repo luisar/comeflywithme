@@ -1,0 +1,16 @@
+{
+  "name": "comeflywithme",
+  "description": "Ruby app to scrape flight sites",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
